@@ -1,8 +1,3 @@
-# CodSoft
-Certainly! Here’s a polished README page for Codsoft Internship Programs on GitHub:
-
----
-
 # Codsoft Internship Programs
 
 Welcome to the Codsoft Internship Programs repository! 🎉
